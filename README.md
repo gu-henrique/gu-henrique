@@ -2,8 +2,8 @@
 
 <div align="center">
     <a href="https://github.com/gu-henrique">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gu-henrique&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-henrique&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gu-henrique&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-henrique&layout=compact&langs_count=7&theme=discord_old_blurple"/>
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
