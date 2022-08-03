@@ -1,4 +1,4 @@
-<h2>Iaee tudo bem? Bem-vindo, eu sou o Gustavo</h2>
+<h2>Iaee tudo bem? Bem-vindo, eu sou o Gustavo!</h2>
 
 <div align="center">
     <a href="https://github.com/gu-henrique">
