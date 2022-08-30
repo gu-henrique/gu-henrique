@@ -17,4 +17,5 @@
   <div>
       <a href="https://www.instagram.com/henri.meraki/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
       <a href="https://www.linkedin.com/in/gustavo-santana-9a951922a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-  </div>
+  
+    </div>
